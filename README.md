@@ -6,7 +6,6 @@
   </a>
 </p>
 
-<a href="https://github.com/abanoubnassem"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=abanoubnassem&count_private=true&show_icons=true&include_all_commits" align="right" height="150" /></a>
 
 ### about me:
 - 🌱 II'm (Polyglot/Full-Stack) Developer able to build a Web/Mobile Apps. Skilled at writing well-designed, testable and efficient code using current best practices.
